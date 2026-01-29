@@ -18,7 +18,7 @@ Flush 5:1
 
 To compile:
 ```
-g++ -O3 -fopenmp sidebets.cpp -o sidebets
+g++ -O3 -fopenmp sidebetsCDC.cpp -o sidebetsCDC
 ```
 
 FUNCTIONALITY:
