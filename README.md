@@ -21,7 +21,7 @@ To compile:
 g++ -O3 -fopenmp sidebetsCDC.cpp -o sidebetsCDC
 ```
 
-FUNCTIONALITY:
+USAGE:
 
 1) Calculate EV of perfect pair and 21+3 side bets given a specific deck composition
 
