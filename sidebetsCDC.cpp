@@ -22,10 +22,10 @@ using namespace std;
 
 /*
 COMPILE:
-  g++ -O3 -fopenmp sidebets.cpp -o sidebets
+  g++ -O3 -fopenmp sidebetsCDC.cpp -o sidebetsCDC
 
 USAGE FORMAT:
-  sidebets SIDE <52 integers>
+  sidebetsCDC SIDE <52 integers>
 
 The 52 integers are the remaining shoe counts for each *specific card* (rank+suit),
 ordered as suit blocks of 13 ranks each:
