@@ -16,6 +16,11 @@ Straight 10:1
 Flush 5:1
 ```
 
+To compile:
+```
+g++ -O3 -fopenmp sidebets.cpp -o sidebets
+```
+
 
 
 
