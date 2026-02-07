@@ -40,7 +40,7 @@ ordered as suit blocks of 13 ranks each:
 eg) Calculate EV of PP and 21+3 sidebets given a full 8 deck shoe
 
 ```
-sidebets SIDE 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
+sidebetsCDC SIDE 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8
 ```
 
 TIME COMPLEXITY = O(1)
